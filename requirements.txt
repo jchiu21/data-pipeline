@@ -1,3 +1,5 @@
-apache-airflow==2.6.0
-requests==2.28.1
-kafka-python==2.0.2
+apache-airflow==2.7.0
+requests
+kafka-python-ng
+cassandra-driver
+pyspark==3.4.1
